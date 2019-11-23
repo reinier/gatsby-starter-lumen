@@ -1,1 +1,1 @@
-Lekker <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a> testen op deze url: <a href="https://tender-jones-ba5a05.netlify.com">tender-jones-ba5a05.netlify.com</a>
+Lekker <a href="https://github.com/gatsbyjs/gatsby" target="_blank">Gatsby</a> testen op deze url: <a href="https://gatsby-rl.netlify.com">gatsby-rl.netlify.com</a>
