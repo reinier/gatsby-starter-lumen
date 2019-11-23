@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-slug: about-me
+slug: about
 draft: false
 ---
 Dit is een test om te zien of deze pagina wordt geupdate. 
